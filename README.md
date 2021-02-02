@@ -15,7 +15,7 @@ Chart Theater Outcomes Based on Launch Date
 All campaigns in category Plays are completed. For the Goals [less than 1000, 29999], the percentage of successful plays decreases when the goal is increasing. For the Goals [10000, 14999], which is the closest range to Louise’s budget target, the percentage of successful campaigns is higher than the failed projects. But the difference between the successful and the failed is quite small comparing with the difference with goals less than 5000. This indicates that Louise’s funding target might be high. Lower the budget goal helps to increase the probability of success.
 
 Chart Outcomes Based on Goals
-![](resources/Outcomes_vs_Goals.png)
+<img src="resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 One potential difficulty is to take the campaign completion duration into consideration. The crowdfunding goal is accumulated so the longer the showtime, the closer the target budget. However, the cost will also go up when the show continues. One potential prospect is to specify the duration of campaign.
